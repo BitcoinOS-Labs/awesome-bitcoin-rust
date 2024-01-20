@@ -22,12 +22,15 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 * [BIP 39 Solver](https://github.com/johncantrell97/bip39-solver-cpu) - Brute force BIP-39 Mnemonic using CPU
 * [Validating Lightning Signer](https://gitlab.com/lightning-signer/docs/) Improving Lightning security with fully validated remote signing.
 * [The Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning Watchtower
-* [GUN - Go Up Number Wallet](https://gun.fun/) - The Go Up Number Wallet
 
 ### Tutorials & Walkthroughs
 * [Bitcoin From Scratch](https://monokh.com/posts/bitcoin-from-scratch-part-1) - Bitcoin from scratch with Rust 
 
-### Curators
-List created and maintained by: [Fodé Diop](https://github.com/diop). PRs always welcomed!
+### Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. PRs always welcome!
 
-© Copyright 2022 [Bitcoin Developers Academy](https://bitcoindevelopers.academy) - MIT License
+### License - MIT License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
