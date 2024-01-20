@@ -1,7 +1,7 @@
 ## Awesome Rust Bitcoin
 A collection of awesome open source Rust Bitcoin projects, libraries and packages.
 
-### Current Projects
+### Projects
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets.
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) - The simplest way to integrate Lightning into your Bitcoin wallet.
 * [Nakamoto](https://github.com/cloudhead/nakamoto) - Privacy-preserving Bitcoin light-client implementation in Rust.
@@ -9,8 +9,9 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 * [Fedimint](https://fedimint.org/) - Federated Mint Prototype.
 * [LNP/BP](https://www.lnp-bp.org/) - Non-profit supervising layer 2 & 3 protocols on Bitcoin & Lightning Network.
 * [Braiins OS](https://braiins.com/bitcoin-mining-stack-upgrade) - Our mission is to give you complete control of your Bitcoin mining operation.
+* [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
-### Rust Bitcoin Cookbook
+### Libraries
 * [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library.
 * [Rust Lightning](https://github.com/lightningdevkit/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust.
 * [LDK Sample](https://github.com/lightningdevkit/ldk-sample) - Sample node implementation using LDK
