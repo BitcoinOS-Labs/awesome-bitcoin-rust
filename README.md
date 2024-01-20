@@ -4,7 +4,6 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 ### Current Projects
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets.
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) - The simplest way to integrate Lightning into your Bitcoin wallet.
-* [Sensei](https://l2.technology/sensei) - Sensei is a lightning node implementation focused on making Bitcoin accessible to the entire world.
 * [Nakamoto](https://github.com/cloudhead/nakamoto) - Privacy-preserving Bitcoin light-client implementation in Rust.
 * [Revault](https://revault.dev/) - A superior custody solution for institutions holding bitcoin.
 * [Fedimint](https://fedimint.org/) - Federated Mint Prototype.
@@ -24,7 +23,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 * [The Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning Watchtower
 
 ### Tutorials & Walkthroughs
-* [Bitcoin From Scratch](https://monokh.com/posts/bitcoin-from-scratch-part-1) - Bitcoin from scratch with Rust 
+* [Bitcoin From Scratch Part1](https://monokh.com/posts/bitcoin-from-scratch-part-1), [Part2: Node](https://monokh.com/posts/bitcoin-from-scratch-part-2), [Part3: Network](https://monokh.com/posts/bitcoin-from-scratch-part-3) - Bitcoin from scratch with Rust 
 
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first. PRs always welcome!
