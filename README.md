@@ -43,6 +43,11 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
+### Smart Contracts
+- [RGB](https://github.com/RGB-WG) - RGB is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed by LNP/BP Standards Association.
+  
+- [Sapio](https://github.com/sapio-lang/sapio) - A framework for creating composable multi-transaction Bitcoin Smart Contracts.
+  
 ### Tutorials & Walkthroughs
 - [Bitcoin From Scratch Part1](https://monokh.com/posts/bitcoin-from-scratch-part-1), [Part2: Node](https://monokh.com/posts/bitcoin-from-scratch-part-2), [Part3: Network](https://monokh.com/posts/bitcoin-from-scratch-part-3) - Bitcoin from scratch with Rust  at 2021
   
