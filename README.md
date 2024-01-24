@@ -25,6 +25,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [LDK Sample](https://github.com/lightningdevkit/ldk-sample) - Sample node implementation using LDK.
   
+- [electrs](https://github.com/romanz/electrs) - An efficient Electrum Server in Rust
+  
 - [Blocks Iterator](https://github.com/RCasatta/blocks_iterator) - Iterate over Bitcoin blocks.
   
 - [Rusty Paper Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates bitcoin paper wallet offline in a single html page.
