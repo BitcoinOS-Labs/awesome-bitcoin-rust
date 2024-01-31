@@ -21,6 +21,12 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 ### Libraries & Frameworks
 - [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library.
   
+- [Miniscript](https://github.com/rust-bitcoin/rust-miniscript/) - Library for handling Miniscript, which is a subset of Bitcoin Script designed to support simple and general tooling.
+
+- [rust-bitcoin-rpc](https://github.com/rust-bitcoin/rust-bitcoincore-rpc) - This is a Rust RPC client library for calling the Bitcoin Core JSON-RPC API.
+  
+- [Rust Secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) - rust-secp256k1 is a wrapper around libsecp256k1, a C library implementing various cryptographic functions using the SECG curve secp256k1.
+  
 - [Rust Lightning](https://github.com/lightningdevkit/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust.
   
 - [LDK Sample](https://github.com/lightningdevkit/ldk-sample) - Sample node implementation using LDK.
