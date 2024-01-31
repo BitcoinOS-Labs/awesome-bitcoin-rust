@@ -32,6 +32,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 - [LDK Sample](https://github.com/lightningdevkit/ldk-sample) - Sample node implementation using LDK.
   
 - [electrs](https://github.com/romanz/electrs) - An efficient Electrum Server in Rust
+
+- [Blocksteam electrs fork](https://github.com/Blockstream/electrs) - A block chain index engine and HTTP API written in Rust based on romanz/electrs.
   
 - [Blocks Iterator](https://github.com/RCasatta/blocks_iterator) - Iterate over Bitcoin blocks.
   
@@ -52,9 +54,15 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 - [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
 ### Smart Contracts
-- [RGB](https://github.com/RGB-WG) - RGB is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed by LNP/BP Standards Association.
+- [RGB](https://github.com/RGB-WG) - `RGB` is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed by LNP/BP Standards Association.
   
 - [Sapio](https://github.com/sapio-lang/sapio) - A framework for creating composable multi-transaction Bitcoin Smart Contracts.
+
+### Indexers
+
+- [OPI - Open Protocol Indexer](https://github.com/bestinslot-xyz/OPI) - `Open Protocol Indexer(OPI)`, is the best-in-slot open-source indexing client for meta-protocols on Bitcoin, fork of `ord` `0.14.0`
+  
+- [Ord](https://github.com/ordinals/ord) - `ord` is an index, block explorer, and command-line wallet. 
   
 ### Tutorials & Walkthroughs
 - [Bitcoin From Scratch Part1](https://monokh.com/posts/bitcoin-from-scratch-part-1), [Part2: Node](https://monokh.com/posts/bitcoin-from-scratch-part-2), [Part3: Network](https://monokh.com/posts/bitcoin-from-scratch-part-3) - Bitcoin from scratch with Rust  at 2021
