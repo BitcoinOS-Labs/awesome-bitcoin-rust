@@ -69,6 +69,13 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Programming Bitcoin Rust](https://www.youtube.com/playlist?list=PLa5eH26KEhkf87-l9WizXX_N17uICIQ21) - Rust implement for Programming Bitcoin book video by Gary Krause latest update 2024-01-10
 
+### Related Resources
+- [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
+  
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - This wiki is a public resource for the community of Bitcoin users, developers, and businesses as well as anyone interested in Bitcoin.
+  
+- [Bitcoin development philosophy](https://bitcoindevphilosophy.com/) - Bitcoin Development Philosophy is a guide for Bitcoin developers who already understand the basics of concepts and processes such as Proof-of-Work, block building, and the transaction life cycle, and who want to level up by gaining a deeper understanding of Bitcoin’s design trade-offs and philosophy.
+
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first. PRs always welcome!
 
