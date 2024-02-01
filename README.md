@@ -1,5 +1,11 @@
-## Awesome Rust Bitcoin
+
+![Logo](images/bitcoin_logo.png) 
+
+
+## Awesome Bitcoin with Rust
 A collection of awesome open source Rust Bitcoin projects, libraries and packages.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ### Projects
 - [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets.
@@ -76,6 +82,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Bitcoin development philosophy](https://bitcoindevphilosophy.com/) - Bitcoin Development Philosophy is a guide for Bitcoin developers who already understand the basics of concepts and processes such as Proof-of-Work, block building, and the transaction life cycle, and who want to level up by gaining a deeper understanding of Bitcoin’s design trade-offs and philosophy.
 
+- [Bitcoin Design](https://bitcoin.design/) - Design bitcoin for everyone, Open-source design for bitcoin products.
+  
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first. PRs always welcome!
 
