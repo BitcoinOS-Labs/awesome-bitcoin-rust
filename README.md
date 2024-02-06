@@ -62,6 +62,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 ### Smart Contracts
 - [RGB](https://github.com/RGB-WG) - `RGB` is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed by LNP/BP Standards Association.
   
+- [BitMask](https://github.com/diba-io/bitmask-core) - BitMask is a Bitcoin-only web wallet and browser extension for accessing decentralized web applications on the Bitcoin timechain. It is designed to support UTXO-based smart contracting protocols such as RGB, in addition to Lightning payments.
+  
 - [Sapio](https://github.com/sapio-lang/sapio) - A framework for creating composable multi-transaction Bitcoin Smart Contracts.
 
 ### Indexers
