@@ -14,7 +14,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Nakamoto](https://github.com/cloudhead/nakamoto) - Privacy-preserving Bitcoin light-client implementation in Rust.
   
-- [Revault](https://revault.dev/) - A superior custody solution for institutions holding bitcoin.
+- [Revault](https://revault.dev/) - A superior custody solution for institutions holding Bitcoin.
   
 - [Fedimint](https://fedimint.org/) - Federated Mint Prototype.
   
@@ -43,7 +43,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Blocks Iterator](https://github.com/RCasatta/blocks_iterator) - Iterate over Bitcoin blocks.
   
-- [Rusty Paper Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates bitcoin paper wallet offline in a single html page.
+- [Rusty Paper Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates Bitcoin paper wallet offline in a single html page.
   
 - [Rust DLC](https://github.com/p2pderivatives/rust-dlc) - Rust library for working with Discreet Log Contracts.
   
@@ -55,14 +55,17 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [The Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning Watchtower
 
-- [Bria](https://github.com/GaloyMoney/bria) - The bridge from your applications to the bitcoin network.
+- [Bria](https://github.com/GaloyMoney/bria) - The bridge from your applications to the Bitcoin network.
   
 - [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
+### Wallets
+- [Mutiny](https://www.mutinywallet.com/) - Mutiny is a self-custodial lightning wallet that runs in the browser. [Github code](https://github.com/MutinyWallet/)
+  
 ### Smart Contracts
 - [RGB](https://github.com/RGB-WG) - `RGB` is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed by LNP/BP Standards Association.
   
-- [BitMask](https://github.com/diba-io/bitmask-core) - BitMask is a Bitcoin-only web wallet and browser extension for accessing decentralized web applications on the Bitcoin timechain. It is designed to support UTXO-based smart contracting protocols such as RGB, in addition to Lightning payments.
+- [BitMask](https://github.com/diba-io/bitmask-core) - `BitMask` is a Bitcoin-only web wallet and browser extension for accessing decentralized web applications on the Bitcoin timechain. It is designed to support UTXO-based smart contracting protocols such as RGB, in addition to Lightning payments.
   
 - [Sapio](https://github.com/sapio-lang/sapio) - A framework for creating composable multi-transaction Bitcoin Smart Contracts.
 
@@ -84,7 +87,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Bitcoin development philosophy](https://bitcoindevphilosophy.com/) - Bitcoin Development Philosophy is a guide for Bitcoin developers who already understand the basics of concepts and processes such as Proof-of-Work, block building, and the transaction life cycle, and who want to level up by gaining a deeper understanding of Bitcoin’s design trade-offs and philosophy.
 
-- [Bitcoin Design](https://bitcoin.design/) - Design bitcoin for everyone, Open-source design for bitcoin products.
+- [Bitcoin Design](https://bitcoin.design/) - Design Bitcoin for everyone, Open-source design for Bitcoin products.
   
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first. PRs always welcome!
