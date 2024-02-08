@@ -62,10 +62,14 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 ### Wallets
 - [Mutiny](https://www.mutinywallet.com/) - Mutiny is a self-custodial lightning wallet that runs in the browser. [Github code](https://github.com/MutinyWallet/)
   
-### Smart Contracts
+### Smart Contracts & VMs
 - [RGB](https://github.com/RGB-WG) - `RGB` is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed by LNP/BP Standards Association.
   
 - [BitMask](https://github.com/diba-io/bitmask-core) - `BitMask` is a Bitcoin-only web wallet and browser extension for accessing decentralized web applications on the Bitcoin timechain. It is designed to support UTXO-based smart contracting protocols such as RGB, in addition to Lightning payments.
+  
+- [bitcoin-scriptexec](https://github.com/BitVM/rust-bitcoin-scriptexec) - This project is a work-in-progress mostly attempting to facilitate `BitVM` development. It does not yet fully implement all opcodes, but as a library already gives you pretty good insight into the internals of the execution in a step-wise manner.
+  
+- [Toy BitVM ](https://github.com/chainwayxyz/toy-bitvm-rs) - Toy `BitVM` in Rust, Experimental toy BitVM implementation in Rust.
   
 - [Sapio](https://github.com/sapio-lang/sapio) - A framework for creating composable multi-transaction Bitcoin Smart Contracts.
 
