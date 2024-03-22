@@ -16,7 +16,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Revault](https://revault.dev/) - A superior custody solution for institutions holding Bitcoin.
   
-- [Fedimint](https://fedimint.org/) - Federated Mint Prototype.
+- [Fedimint](https://fedimint.org/) - A modular open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
   
 - [LNP/BP](https://www.lnp-bp.org/) - Non-profit supervising layer 2 & 3 protocols on Bitcoin & Lightning Network.
   
@@ -56,6 +56,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 - [The Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning Watchtower
 
 - [Bria](https://github.com/GaloyMoney/bria) - The bridge from your applications to the Bitcoin network.
+
+- [Fedimint](https://github.com/fedimint/fedimint) - `Fedimint` is a module based system for building federated applications. It is designed to be a trust-minimized, censorship-resistant, and private alternative to centralized applications.
   
 - [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
