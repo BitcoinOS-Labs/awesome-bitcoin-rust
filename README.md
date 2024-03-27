@@ -24,6 +24,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Galoy Money](https://galoy.io/) - Bitcoin-native banking infrastructure for organizations
 
+- [Bitcredit Protocol](https://www.bit.cr/) - Bitcredit Protocol is a community-driven open software project to unblock the adoption of Bitcoin. It provides a fiat-less on-ramp and finances the real economy's working capital and wage fund needs through the decentralised issuance of peer-to-peer Bitcoin credit money.
+
 ### Libraries & Frameworks
 - [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library.
   
@@ -58,6 +60,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 - [Bria](https://github.com/GaloyMoney/bria) - The bridge from your applications to the Bitcoin network.
 
 - [Fedimint](https://github.com/fedimint/fedimint) - `Fedimint` is a module based system for building federated applications. It is designed to be a trust-minimized, censorship-resistant, and private alternative to centralized applications.
+
+- [Bitcredit E-Bills](https://github.com/BitcoinCredit/E-Bills) - Bitcoin Credit Money Supply for the Real Economy
   
 - [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
