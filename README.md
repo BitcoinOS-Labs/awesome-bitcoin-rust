@@ -62,6 +62,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 - [Fedimint](https://github.com/fedimint/fedimint) - `Fedimint` is a module based system for building federated applications. It is designed to be a trust-minimized, censorship-resistant, and private alternative to centralized applications.
 
 - [Bitcredit E-Bills](https://github.com/BitcoinCredit/E-Bills) - Bitcoin Credit Money Supply for the Real Economy
+
+- [Internet Computer Bitcoin Canister](https://github.com/dfinity/bitcoin-canister)
   
 - [Bitcoin SPV](https://github.com/summa-tx/bitcoin-spv) A low-level toolkit for working with Bitcoin from other blockchain (latest update 2021-06-26).
 
