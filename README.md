@@ -81,6 +81,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Sapio](https://github.com/sapio-lang/sapio) - A framework for creating composable multi-transaction Bitcoin Smart Contracts.
 
+- [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts, Source code [on Github](https://github.com/shesek/minsc) 
+
 ### Indexers
 
 - [OPI - Open Protocol Indexer](https://github.com/bestinslot-xyz/OPI) - `Open Protocol Indexer(OPI)`, is the best-in-slot open-source indexing client for meta-protocols on Bitcoin, fork of `ord` `0.14.0`
