@@ -101,6 +101,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
   
 - [Bitcoin development philosophy](https://bitcoindevphilosophy.com/) - Bitcoin Development Philosophy is a guide for Bitcoin developers who already understand the basics of concepts and processes such as Proof-of-Work, block building, and the transaction life cycle, and who want to level up by gaining a deeper understanding of Bitcoin’s design trade-offs and philosophy.
 
+- [Learn me a bitcoin](https://learnmeabitcoin.com/) - A very excellent website for learning Bitcoin technology by Greg Walker
+  
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - `Mastering Bitcoin` is a technical book that explains what Bitcoin is and how it works.
 
 - [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin) - by Jimmy Song
