@@ -103,6 +103,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 
 - [Learn me a bitcoin](https://learnmeabitcoin.com/) - A very excellent website for learning Bitcoin technology by Greg Walker
   
+- [Building bitcoin in Rust](https://braiins.com/books/building-bitcoin-in-rust) 
+  
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - `Mastering Bitcoin` is a technical book that explains what Bitcoin is and how it works.
 
 - [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin) - by Jimmy Song
