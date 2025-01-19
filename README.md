@@ -112,6 +112,8 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Learning Bitcoin from the Command Line is a tutorial for working with Bitcoin (and Lightning) that teaches direct interaction with the servers themselves, as the most robust and secure way to begin cryptocurrency work
   
 - [Bitcoin Design](https://bitcoin.design/) - Design Bitcoin for everyone, Open-source design for Bitcoin products.
+
+- [Bitcoin Devs](https://bitcoindevs.xyz/> - There is an oft-repeated sentiment in the community that bitcoin does not need you. 
   
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first. PRs always welcome!
